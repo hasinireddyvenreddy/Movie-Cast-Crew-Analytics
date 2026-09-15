@@ -1,0 +1,101 @@
+person_id,id,name,character,role
+59401,ts20945,Joe Besser,Joe,ACTOR
+31460,ts20945,Moe Howard,Moe,ACTOR
+31461,ts20945,Larry Fine,Larry,ACTOR
+21174,tm19248,Buster Keaton,Johnny Gray,ACTOR
+28713,tm19248,Marion Mack,Annabelle Lee,ACTOR
+28714,tm19248,Glen Cavender,Captain Anderson,ACTOR
+28715,tm19248,Jim Farley,General Thatcher,ACTOR
+27348,tm19248,Frederick Vroom,A Southern General,ACTOR
+28716,tm19248,Charles Henry Smith,Annabelle's Father,ACTOR
+28718,tm19248,Joe Keaton,Union General,ACTOR
+28721,tm19248,Al St. John,Officer on Horseback (uncredited),ACTOR
+28717,tm19248,Frank Barnes,Annabelle's Brother,ACTOR
+28719,tm19248,Mike Donlin,Union General,ACTOR
+28720,tm19248,Tom Nawn,Union General,ACTOR
+28722,tm19248,Jimmy Bryant,Raider (uncredited),ACTOR
+28723,tm19248,Budd Fine,Raider (uncredited),ACTOR
+28724,tm19248,Ray Hanford,Raider (uncredited),ACTOR
+28725,tm19248,Charles Phillips,Raider (uncredited),ACTOR
+28726,tm19248,Eddie Foster,Union Railroad Fireman (uncredited),ACTOR
+28727,tm19248,Frank Hagney,Confederate Recruiter (uncredited),ACTOR
+28728,tm19248,Jack Hanlon,Bit Part (uncredited),ACTOR
+28729,tm19248,Edward Hearn,Union Officer (uncredited),ACTOR
+28730,tm19248,Hilliard Karr,Soldier (uncredited),ACTOR
+28731,tm19248,Louis Lewyn,Soldier (uncredited),ACTOR
+28733,tm19248,Elgin Lessley,Union General Who Gives Command to Cross Bridge (uncredited),ACTOR
+28732,tm19248,Clyde Bruckman,Unknown,DIRECTOR
+21174,tm19248,Buster Keaton,Unknown,DIRECTOR
+29993,tm82253,Myrna Loy,Milly Stephenson,ACTOR
+29992,tm82253,Fredric March,Al Stephenson,ACTOR
+29994,tm82253,Dana Andrews,Fred Derry,ACTOR
+21803,tm82253,Teresa Wright,Peggy Stephenson,ACTOR
+29995,tm82253,Virginia Mayo,Marie Derry,ACTOR
+13682,tm82253,Cathy O'Donnell,Wilma Cameron,ACTOR
+29996,tm82253,Hoagy Carmichael,Butch Engle,ACTOR
+29997,tm82253,Harold Russell,Homer Parrish,ACTOR
+27564,tm82253,Gladys George,Hortense Derry,ACTOR
+29998,tm82253,Roman Bohnen,Pat Derry,ACTOR
+15258,tm82253,Ray Collins,Mr. Milton,ACTOR
+29999,tm82253,Minna Gombell,Mrs. Parrish,ACTOR
+30000,tm82253,Walter Baldwin,Mr. Parrish,ACTOR
+30001,tm82253,Steve Cochran,Cliff Scully,ACTOR
+30002,tm82253,Dorothy Adams,Mrs. Cameron,ACTOR
+28777,tm82253,Don Beddoe,Mr. Cameron,ACTOR
+567781,tm82253,Marlene Aames,Luella Parrish,ACTOR
+45075,tm82253,Charles Halton,Prew,ACTOR
+37831,tm82253,Ray Teal,Mr. Mollett,ACTOR
+16783,tm82253,Howland Chamberlain,Thorpe,ACTOR
+296554,tm82253,Dean White,Novak,ACTOR
+15259,tm82253,Erskine Sanford,Bullard,ACTOR
+564517,tm82253,Michael Hall,Rob Stephenson,ACTOR
+316368,tm82253,Victor Cutler,Woody Merrill,ACTOR
+128931,tm82253,Claire Du Brey,Mrs. Talburt - Perfume Customer (uncredited),ACTOR
+25663,tm82253,Pat Flaherty,Salvage Foreman (uncredited),ACTOR
+39453,tm82253,Jackie Jackson,A Boy (uncredited),ACTOR
+21359,tm82253,William H. O'Brien,Nightclub Waiter (uncredited),ACTOR
+22474,tm82253,Bert Stevens,Man at Airport/Dinner Guest (uncredited),ACTOR
+1479923,tm82253,Marion Gray,Unknown,ACTOR
+13717,tm82253,William Wyler,Unknown,DIRECTOR
+25018,tm83884,Cary Grant,Walter Burns,ACTOR
+28500,tm83884,Rosalind Russell,Hildy Johnson,ACTOR
+12463,tm83884,Ralph Bellamy,Bruce Baldwin,ACTOR
+28501,tm83884,Gene Lockhart,Sheriff Hartwell,ACTOR
+28506,tm83884,Helen Mack,Mollie Malloy,ACTOR
+27185,tm83884,Porter Hall,Murphy,ACTOR
+28510,tm83884,Ernest Truex,Bensinger,ACTOR
+13325,tm83884,Cliff Edwards,Endicott,ACTOR
+28502,tm83884,Clarence Kolb,Mayor,ACTOR
+20167,tm83884,Roscoe Karns,McCue,ACTOR
+28503,tm83884,Frank Jenks,Wilson,ACTOR
+23834,tm83884,Regis Toomey,Sanders,ACTOR
+28504,tm83884,Abner Biberman,Louie,ACTOR
+28505,tm83884,Frank Orth,Duffy,ACTOR
+14710,tm83884,John Qualen,Earl Williams,ACTOR
+28507,tm83884,Alma Kruger,Mrs. Baldwin,ACTOR
+6137,tm83884,Billy Gilbert,Joe Pettibone,ACTOR
+28508,tm83884,Pat West,Warden Cooley,ACTOR
+28509,tm83884,Edwin Maxwell,Dr. Egelhoffer,ACTOR
+13331,tm83884,Irving Bacon,Gus (uncredited),ACTOR
+27216,tm83884,Wade Boteler,Mike (uncredited),ACTOR
+27217,tm83884,Harry C. Bradley,Insurance Doctor (uncredited),ACTOR
+28511,tm83884,Wheaton Chambers,Elevator Passenger (uncredited),ACTOR
+27234,tm83884,Edmund Cobb,Cop (uncredited),ACTOR
+27196,tm83884,Ann Doran,Newspaper Office Worker (uncredited),ACTOR
+28512,tm83884,Ralph Dunn,Plainclothesman (uncredited),ACTOR
+28513,tm83884,Earl Dwire,Pete Davis (uncredited),ACTOR
+25663,tm83884,Pat Flaherty,Frank the Policeman (uncredited),ACTOR
+27262,tm83884,Jack Gardner,Elevator Passenger (uncredited),ACTOR
+28514,tm83884,Eddie Hart,Carl the Plainclothesman (uncredited),ACTOR
+28515,tm83884,Marion Martin,Evangeline (uncredited),ACTOR
+22485,tm83884,Frank McLure,Newsman (uncredited),ACTOR
+27306,tm83884,James Millican,Tim (uncredited),ACTOR
+27310,tm83884,Gene Morgan,Gene (uncredited),ACTOR
+27191,tm83884,Delmar Watson,Skinny (uncredited),ACTOR
+23839,tm83884,Howard Hawks,Unknown,DIRECTOR
+14701,tm56584,Humphrey Bogart,Dixon 'Dix' Steele,ACTOR
+39498,tm56584,Gloria Grahame,Laurel Gray,ACTOR
+57463,tm56584,Frank Lovejoy,Det. Sgt. Brub Nicolai,ACTOR
+57464,tm56584,Carl Benton Reid,Capt. Lochner,ACTOR
+57465,tm56584,Art Smith,Agent Mel Lippman,ACTOR
+57466,tm56584,Jeff Donnell,Sylvia Nicolai,ACTOR
